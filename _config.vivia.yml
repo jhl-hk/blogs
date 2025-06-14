@@ -2,6 +2,7 @@
 menu: # 导航栏上的链接
   Home: /
   Profile: https://jhl.idv.hk
+  Links: /links
   Archives: /archives
 rss: /atom.xml
 
