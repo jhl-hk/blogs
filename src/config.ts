@@ -44,6 +44,7 @@ export const siteConfig: SiteConfig = {
 export const navBarConfig: NavBarConfig = {
 	links: [
 		LinkPreset.Home,
+		LinkPreset.About,
 		{
 			name: "Profile",
 			url: "https://jhl.idv.hk", // Internal links should not include the base path, as it is automatically added
@@ -82,9 +83,9 @@ export const profileConfig: ProfileConfig = {
 };
 
 export const licenseConfig: LicenseConfig = {
-	enable: false,
-	name: "All Rights Reserved",
-	url: "#",
+	enable: true,
+	name: "Licence at bottom",
+	url: "/about/",
 };
 
 export const expressiveCodeConfig: ExpressiveCodeConfig = {
