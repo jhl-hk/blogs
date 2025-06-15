@@ -1,0 +1,16 @@
+[variables]
+NODE_VERSION = "18.20.8"
+
+[phases.setup]
+nixPkgs = ["nodejs_18", "pnpm"]
+
+[phases.install]
+dependsOn = ["setup"]
+cmds = ["pnpm install"]
+
+[phases.build]
+dependsOn = ["install"]
+cmds = ["pnpm build"]
+
+[start]
+cmd = "pnpm run server"
