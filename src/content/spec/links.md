@@ -37,4 +37,6 @@ Your website will be displayed in
 
 ### Friends & Projects
 
+- [枯死的灌木](https://12520.net) - 灌木鼓捣乱七八糟技术的小破站
+
 ### Others
