@@ -3,7 +3,7 @@
 
 - **Site Name**: Peaceful Place \JHL-HK/
 - **URL**: https://jhl.idv.hk / https://article.jhl.idv.hk
-- **Description**: An international student who interest in computer and aviation
+- **Description**: An international student who interest in computer and aviation.
 - **Keywords**: tech, aviation, ibdp
 
 ### Guideline for Link Exchange
@@ -38,5 +38,6 @@ Your website will be displayed in
 ### Friends & Projects
 
 - [枯死的灌木](https://12520.net) - 灌木鼓捣乱七八糟技术的小破站
+- [Lazy's Blog](https://blog.imlazy.ink:233/) - Share somethings with you
 
 ### Others
