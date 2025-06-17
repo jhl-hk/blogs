@@ -29,6 +29,6 @@ As the translater and community moderator, I regularly maintain the translation 
 
 ## Content Licence
 
-Unless stated otherwise, all content is original and created by me. Text may be used for non-commercial purposes only, unless permission is granted. Pictures and images must state the original source and pointed to [this site](https://article.jhl.idv.hk) or [my GitHub profile](https://github.com/jhl-hk). For any questions and requests please feel free to send an email to [ja@jhl.hk](mailto:ja@jhl.hk).
+Unless stated otherwise, all content is original and created by me. Text may be used for non-commercial purposes only, unless permission is granted. Mention my name or point a link to [this site](https://article.jhl.idv.hk). Pictures and images must state the original source and pointed to [this site](https://article.jhl.idv.hk) or [my GitHub profile](https://github.com/jhl-hk). For any questions and requests please feel free to send an email to [ja@jhl.hk](mailto:ja@jhl.hk).
 
 If my content violated your rights please send an email to [ja@jhl.hk](mailto:ja@jhl.hk).
