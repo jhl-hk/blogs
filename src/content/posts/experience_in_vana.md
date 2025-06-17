@@ -1,5 +1,5 @@
 ---
-title: "记在虚拟全日航（ANA Virtual Group）的半年 / Overview the Past Half Year with vANA"
+title: "记在虚拟全日空（ANA Virtual Group）的半年 / Overview the Past Half Year with vANA"
 published: 2025-06-17
 description: '一个简简单单的回忆 / A simple memory'
 image: ''
@@ -17,13 +17,13 @@ lang: 'zh-cn'
 
 [English Version](#english-version) | [辞职信 | Letter of Resignation](/lor-vANA.pdf)
 
-在2024年11月15号，我在[虚拟全日航](https://anavirtualgroup.com)注册了我的账户。与此同时，记录着我在模飞中的一个里程碑：开始了虚拟航司之旅。
+在2024年11月15号，我在[虚拟全日空](https://anavirtualgroup.com)注册了我的账户。与此同时，记录着我在模飞中的一个里程碑：开始了虚拟航司之旅。
 
-在过去半个月中，我在虚拟全日航里结实了许多有天赋和能力的大佬。
+在过去半个月中，我在虚拟全日空里结实了许多有天赋和能力的大佬。
 
 ## 一切的开始
 
-在去年11月的某一天，我闲来无事开始浏览 my VATSIM 页面上的每一个页面。在我点到 Vitual Airline 虚拟航司那一栏的时候，看到了一堆虚拟航司。这时候我的好奇心就开始了，有没有日本全日航的虚拟航司，就在 DuckDuckGo 上开始搜索~~（Google是什么?）~~。在意外之中，找到了虚拟全日航。
+在去年11月的某一天，我闲来无事开始浏览 my VATSIM 页面上的每一个页面。在我点到 Vitual Airline 虚拟航司那一栏的时候，看到了一堆虚拟航司。这时候我的好奇心就开始了，有没有日本全日空的虚拟航司，就在 DuckDuckGo 上开始搜索~~（Google是什么?）~~。在意外之中，找到了虚拟全日空。
 
 ## 拓展人脉
 
@@ -31,7 +31,7 @@ lang: 'zh-cn'
 
 ## 成为 CTO
 
-经过长时间的思考和纠结，我在5月16号非常犹豫情况下接下了虚拟全日空的 CTO 职务。在过去的一个月中，我帮助虚拟全日航空从TFDi转换到我私人服务器。在这同时，开始虚拟全日航空的 Discord 机器人开发。在这过程中，我非常高兴可以与不同的有经验的大佬们一起参与开发和活动。
+经过长时间的思考和纠结，我在5月16号非常犹豫情况下接下了虚拟全日空的 CTO 职务。在过去的一个月中，我帮助虚拟全日空从TFDi转换到我私人服务器。在这同时，开始虚拟全日空的 Discord 机器人开发。在这过程中，我非常高兴可以与不同的有经验的大佬们一起参与开发和活动。
 
 ## 辞职和离开
 
