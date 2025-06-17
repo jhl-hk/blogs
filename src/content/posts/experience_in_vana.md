@@ -15,7 +15,7 @@ draft: false
 lang: 'zh-cn'
 ---
 
-[English Version](#english-version) | [辞职信 | Letter of Resignation](/lor-vANA.pd)
+[English Version](#english-version) | [辞职信 | Letter of Resignation](/lor-vANA.pdf)
 
 在2024年11月15号，我在[虚拟全日航](https://anavirtualgroup.com)注册了我的账户。与此同时，记录着我在模飞中的一个里程碑：开始了虚拟航司之旅。
 
