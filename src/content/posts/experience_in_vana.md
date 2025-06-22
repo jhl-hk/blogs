@@ -7,7 +7,7 @@ tags: [
   zh,
   en,
   blog,
-  memory,
+  memoir,
   sim,
 ]
 category: 'Blogs'
