@@ -11,7 +11,7 @@ tags: [
   programming,
 ]
 category: 'Blogs'
-draft: yes
+draft: true
 lang: 'zh-cn'
 ---
 
