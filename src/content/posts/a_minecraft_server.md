@@ -7,8 +7,8 @@ tags: [
   zh,
   game,
 ]
-category: 'Aritcles'
-draft: false 
+category: 'Articles'
+draft: false
 lang: 'zh-cn'
 ---
 

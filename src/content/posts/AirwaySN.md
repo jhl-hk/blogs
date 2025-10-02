@@ -10,8 +10,8 @@ tags: [
   dev,
   asn
 ]
-category: 'Aritcles'
-draft: false 
+category: 'Articles'
+draft: false
 lang: 'en'
 ---
 

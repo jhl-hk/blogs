@@ -9,24 +9,24 @@ tags: [
   memoir,
   blog
 ]
-category: 'Article'
-draft: false 
+category: 'Articles'
+draft: false
 lang: 'en'
 ---
 
 Since the beginning of this year, I have been actively participating in the VATSIM community. At the end of last year, I applied to become a controller in VATJPN. It was more difficult than I thought, and I messed up my first on-the-job training (OJT) session. I was forced to undergo training with an experienced controller beforehand. Then it started my long and painful waiting period...
 
-## Finding an Instructor 
+## Finding an Instructor
 
 At the request of the Deputy Division Director (VATJPN2), I began searching for an En-route Controller (C1) rating holder to assist me on my ATC journey. As far as I know, there are only a few people who meet the requirements, and securing their services is more challenging than gaining admission to Cambridge University. At the same time, I was losing patience and time. Coincidentally, through the ANA Virtual Group, I met someone nicknamed ミルクねこ (Mirukuneko), who became my first friend and helped me a lot with my VATJPN journey. Through his invitation, I joined the Tokyo ES Team community Discord server and met another fantastic person who holds a C1 rating and is willing to instruct me through the training: Mika! I never thought I would be able to learn ATC in the Japanese division with a Mandarin speaker.
 
 ## Start Training and Contributions
 
-On 16 April, Mika and I made a 'deal': I would help her with the sector files and cue card, and she would help me with my training. Two days later, I had my first session with an instructor at RJFF. As far as I know, I messed up the first session due to my slow response speed and lack of efficiency. I didn't even last an hour. We went offline and I joined a small voice channel where I realised that I had to improve my speed and learn the entire airport and its procedures in order to provide an efficient and quality service on VATSIM. 
+On 16 April, Mika and I made a 'deal': I would help her with the sector files and cue card, and she would help me with my training. Two days later, I had my first session with an instructor at RJFF. As far as I know, I messed up the first session due to my slow response speed and lack of efficiency. I didn't even last an hour. We went offline and I joined a small voice channel where I realised that I had to improve my speed and learn the entire airport and its procedures in order to provide an efficient and quality service on VATSIM.
 
 ### Met Ian
 
-On the same day, I made another important friend — **Ian**, who I met both on VATSIM and in real life. While I was getting ready, I was chatting to Mika when Ian came in and asked if I was a student at NUCB. I said yes and told him that I was actually a high school student at the International College of NUCB. I was surprised that someone had found my school through my blog or LinkedIn profile. He told me that he was at my school as an exchange student. Within ten minutes, we had arranged to meet at the 7-Eleven on the school campus after school. I later found out that he is the webmaster of VATHK and a student at HKUST. It was great to meet another experienced controller — he actually helped me with my training at Sweatbox. However, this did not help me with the basics in Japan. As a personal favour, he let me try VATHK's Sweatbox training, which I initially found hellish and terrible. Imagine that there are only 10+ aircraft in total on JPN's Sweatbox for tower training, but more than 50+ on the ground just for ground training. At first, it looked terrifying, but after playing it for a while, I started to understand how to improve my speed and efficiency. It helped. 
+On the same day, I made another important friend — **Ian**, who I met both on VATSIM and in real life. While I was getting ready, I was chatting to Mika when Ian came in and asked if I was a student at NUCB. I said yes and told him that I was actually a high school student at the International College of NUCB. I was surprised that someone had found my school through my blog or LinkedIn profile. He told me that he was at my school as an exchange student. Within ten minutes, we had arranged to meet at the 7-Eleven on the school campus after school. I later found out that he is the webmaster of VATHK and a student at HKUST. It was great to meet another experienced controller — he actually helped me with my training at Sweatbox. However, this did not help me with the basics in Japan. As a personal favour, he let me try VATHK's Sweatbox training, which I initially found hellish and terrible. Imagine that there are only 10+ aircraft in total on JPN's Sweatbox for tower training, but more than 50+ on the ground just for ground training. At first, it looked terrifying, but after playing it for a while, I started to understand how to improve my speed and efficiency. It helped.
 
 ### Tokyo-ES
 
